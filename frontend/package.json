@@ -1,0 +1,20 @@
+{
+  "name": "mental-health-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15",
+    "react": "^19",
+    "react-dom": "^19",
+    "chart.js": "^4",
+    "react-chartjs-2": "^5",
+    "mapbox-gl": "^3",
+    "axios": "^1",
+    "tailwindcss": "^4"
+  }
+}
